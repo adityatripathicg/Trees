@@ -1,6 +1,6 @@
-public class N-aryTreePostorderTraversal {
+// public class N-aryTreePostorderTraversal {
     
-}
+// }
 /*
 // Definition for a Node.
 class Node {
@@ -18,7 +18,7 @@ class Node {
         children = _children;
     }
 };
-*/
+*/  
 
 class Solution {
     public List<Integer> postorder(Node root) {
